@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\SharpDevelop Projects\untukpv\untukpv\bin\Debug\untukpv.exe
+C:\Users\USER\Documents\SharpDevelop Projects\untukpv\untukpv\bin\Debug\untukpv.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\untukpv\untukpv\obj\Debug\untukpv.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\SharpDevelop Projects\untukpv\untukpv\obj\Debug\untukpv.MainForm.resources
+C:\Users\USER\Documents\SharpDevelop Projects\untukpv\untukpv\obj\Debug\untukpv.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\SharpDevelop Projects\untukpv\untukpv\obj\Debug\untukpv.exe
+C:\Users\USER\Documents\SharpDevelop Projects\untukpv\untukpv\obj\Debug\untukpv.pdb
